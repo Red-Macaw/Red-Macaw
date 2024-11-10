@@ -1,7 +1,7 @@
 # Hi, I'm Red Macaw! 👋
 
 ### Welcome to My GitHub Profile! 🦜
-I'm an experienced developer and modder, currently an active member of the **PVZ Modders Association**. I create mods, build web applications, and love experimenting with cutting-edge AI tools. If you're interested in mods, web development, or AI applications, you've come to the right place!
+I'm an experienced developer and modder, currently an active member of the **PVZ Modders Association**. I create mods, build web applications in python with **streamlit**, and I am familiar with **Transformers** and **Ai studio Google**
 
 ---
 
@@ -14,18 +14,9 @@ I'm an experienced developer and modder, currently an active member of the **PVZ
   - Proficient in **Python-based web frameworks**, especially **Streamlit**.
   - Great at building interactive web applications that engage users.
 - **AI Tools**:
-  - Familiar with **Google Gemini**, **AI Studio**, and integrating AI in practical applications.
+  - Familiar with **Transformers**, **AI Studio Google**, 
 
 
-
-## 🤝 Let's Collaborate
-I'm always open to new projects and exciting ideas. Feel free to **contact me** if you're looking to:
-
-- Create a mod or improve an existing one.
-- Build a custom Python web app.
-- Integrate AI into your web projects.
-
-Let's build something amazing together! 🚀
 
 ---
 
